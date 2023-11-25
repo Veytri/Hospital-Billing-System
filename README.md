@@ -18,8 +18,7 @@ This C++ program is designed to assist a small private hospital in calculating m
 - View Bill Details: Check the detailed breakdown of each patient's bill and overall statistics.
 
 **Contributors**
-Veytri 
-Jason 
+Veytri, Jason 
 
 **Developer License**
 This project is licensed under the [MIT License]
