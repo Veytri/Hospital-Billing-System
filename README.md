@@ -11,12 +11,10 @@ This C++ program is designed to assist a small private hospital in calculating m
 3. Bill Breakdown: Displays detailed bill components for each patient, including hospital stay, surgery, medication, services, and total charges.
 4. Additional Information: Provides total charges for all patients, average days spent, and identifies patients with the highest and lowest bills.
 
-**Code**
-
 **How to Use**
 
+- Open your preferred IDE to run the C++ source codes
 - Input Patients' Data: Run the program and input patients' information as prompted.
-
 - View Bill Details: Check the detailed breakdown of each patient's bill and overall statistics.
 
 **Contributors**
